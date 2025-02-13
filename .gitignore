@@ -1,0 +1,36 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment
+venv/
+.env
+*.env
+
+# Ignore Django-related files
+*.sqlite3
+db.sqlite3
+/media/
+/staticfiles/
+
+# Ignore logs and cache
+*.log
+*.pot
+*.pyc
+*.pyo
+
+# Ignore VS Code and JetBrains settings
+.vscode/
+.idea/
+
+# Ignore dependencies
+node_modules/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore secret settings
+settings_local.py
+
