@@ -13,8 +13,8 @@ This project is a Django-based authentication system that provides user registra
 ## Installation & Setup
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/django-auth-system.git
-cd django-auth-system
+git clone https://github.com/vinay-a1coder/django-auth-system.git
+cd auth_project
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
